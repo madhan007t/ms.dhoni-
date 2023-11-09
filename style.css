@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+body{
+    background: linear-gradient(118deg, rgba(180, 10, 27, 0.79) 48%, rgb(201, 126, 122) 87%);
+}
+section figure p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+section figure p span {
+    color: rgb(0, 0, 0);    
+}
+header nav ul li{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+      font-size: 20px;
+      font-weight: 300;  
+    
+}
+#about h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#about p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#career h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#career p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#Records h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#Records p {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#Records li{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;  
+}
+#Records li span{
+    color: blueviolet;
+}
+#awards h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#awards p {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#Stats h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#Stats p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#Movie h3{
+    color:rgb(16, 142, 188);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 3px 5px 5px rgb(91, 7, 7);
+}
+#Movie p{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
